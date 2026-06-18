@@ -1,0 +1,16 @@
+# Compiled
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# Runtime-generated data files
+StockRecord.txt
+EmployeeRecord.txt
+InvoiceFile.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
